@@ -1,0 +1,133 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "VMWARE SERVICES",
+      "description": "Well-versed in virtualization technologies, our team of experts can help you migrate to a virtualization strategy that fits your business model and budget constraints.",
+      "icon": "vmware"
+    },
+    {
+      "id": "2",
+      "title": "OPENSTACK MANAGEMENT",
+      "description": "Gain better control of your OpenStack infrastructure from initial deployment to ongoing operations with robust and flexible OpenStack management.",
+      "icon": "open-stack"
+    },
+    {
+      "id": "3",
+      "title": "AMAZON WEB SERVICES",
+      "description": "Nodericks blends technology and automation to deliver robust AWS support 24x7x365, backed by AWS certified architects and engineers.",
+      "icon": "aws"
+    },
+    {
+      "id": "4",
+      "title": "CUSTOM PROJECTS",
+      "description": "Save time, money and resources with highly customized and flexible project offerings that are tailored to suit your unique project requirement.",
+      "icon": "cstm-prjt"
+    },
+    {
+      "id": "5",
+      "title": "cPanel Server Management",
+      "description": "Get 24x7 access to cPanel experts you can rely on for reliable, efficient, and proactive support for your cPanel servers, starting form installation to optimization.",
+      "icon": "cpanel"
+    },
+    {
+      "id": "6",
+      "title": "Emergency Service",
+      "description": "Get swift solutions to your urgent server or service issues and ensure the lowest timeframe in resolving service disruptions and protecting brand reputation.",
+      "icon": "energy"
+    },
+    {
+      "id": "7",
+      "title": "Virtual Server Management",
+      "description": "Get 24x7 virtual server environment monitoring, alerting and reporting to ensure a higher level of security, speed, and uptime on your virtual servers.",
+      "icon": "server-manage"
+    },
+    {
+      "id": "8",
+      "title": "DEVOPS",
+      "description": "Get 24x7 virtual server environment monitoring, alerting and reporting to ensure a higher level of security, speed, and uptime on your virtual servers.",
+      "icon": "devops"
+    }
+  ],
+  "statistics": [
+    {
+      "title": "Websites Worked",
+      "count": "6000000"
+    },
+    {
+      "title": "Happy Clients",
+      "count": "1000"
+    },
+    {
+      "title": "Servers worked",
+      "count": "1500"
+    },
+    {
+      "title": "Cloud Environment",
+      "count": "83"
+    }
+  ],
+  "makedifferent": [
+    {
+      "id": "1",
+      "title": "EXPERTISE",
+      "description": "Our team comprises certified personnel with deep industry experience.",
+      "icon": "expertise"
+    },
+    {
+      "id": "2",
+      "title": "EXCELLENCE",
+      "description": "Excellence is our motto. We build and support mission-critical systems reliably and securely.",
+      "icon": "excellence"
+    },
+    {
+      "id": "3",
+      "title": "AGILITY",
+      "description": "Being flexible and adapting quickly to changing conditions define our proactive support culture.",
+      "icon": "angility"
+    },
+    {
+      "id": "4",
+      "title": "INNOVATION",
+      "description": "By being collaborative & creative, we continously foster innovation, redefining customer experience.",
+      "icon": "innovation"
+    }
+  ],
+  "testimonials": [
+    {
+      "title": "Mike,Specialty hosting company, Florida USA",
+      "image": "testi.png",
+      "description": "Working in the hosting and data center industry for around 20 years I trust my business to Nodericks Technologies. Knowing their managment for over a decade and having my admin team without a change for 5 years speaks to the quality of their staff and this companies leadership. The expertise and skill level of the VIPoint techs and management matches with the top of the provider companies. VIPoint delivers value, trust, strong skillsets, and allows hosting and datacenter providers run their businesses efficiently. My clients are constantly impressed by my teams work. I am available at anytime for a reference for anyone considering Nodericks."
+    },
+    {
+      "title": "Igor,Cloud",
+      "image": "testi.png",
+      "description": "Nodericks has an exceptional talent pool. In addition to technical expertise, their staff display a strong command over English that gives our customers an in-house like support feel. Way to go, guys !!"
+    },
+    {
+      "title": "Liz,Hosting Company",
+      "image": "testi.png",
+      "description": "When the going gets tough, the tough gets going' I would say that is an apt phrase to describe them. I am so grateful to Nodericks folks for helping me out of a very critical situation. I appreciate their flexibility and willingness to assist their customers. I will definitely recommend them."
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "DARK WEB",
+      "image": "blog.jpg",
+      "description": "Dark Web, also known as 'Darknet', denotes an encrypted portion of the internet which is not indexed by search engines (i.e. It cannot be found in SERP (Search Engine Result ..."
+    },
+    {
+      "id": "2",
+      "title": "KALI LINUX",
+      "image": "blog.jpg",
+      "description": "  Kali Linux is a debian-derived Linux distribution designed for 'digital forensics' (Often used as a synonym for 'computer forensics', it is the science encompassing the recovery and investigation of ..."
+    },
+    {
+      "id": "3",
+      "title": "ARCH LINUX",
+      "image": "blog.jpg",
+      "description": "Arch Linux is an independently developed Linux distribution (i.e. operating system) for computers based on x86-64 architecture. Composed of free and open source software, it supports community involvement. Arch ..."
+    }
+  ]
+}

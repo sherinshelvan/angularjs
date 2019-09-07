@@ -1,0 +1,102 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id ante nec augue pulvinar vehicula. Maecenas laoreet ultricies mattis. Praesent diam quam, tincidunt at lacinia in, aliquam a nibh. Etiam commodo imperdiet libero accumsan aliquam.",
+      "icon": "test"
+    },
+    {
+      "id": "2",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id ante nec augue pulvinar vehicula. Maecenas laoreet ultricies mattis. Praesent diam quam, tincidunt at lacinia in, aliquam a nibh. Etiam commodo imperdiet libero accumsan aliquam.",
+      "icon": "test"
+    },
+    {
+      "id": "3",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id ante nec augue pulvinar vehicula. Maecenas laoreet ultricies mattis. Praesent diam quam, tincidunt at lacinia in, aliquam a nibh. Etiam commodo imperdiet libero accumsan aliquam.",
+      "icon": "test"
+    }
+  ],
+
+  "portfolios": [
+    {
+      "image": "portfolio-img31.jpg",
+      "title": "Dashboard",
+      "name": "by GSRthemes9"
+    },
+    {
+      "image": "portfolio-img32.jpg",
+      "title": "Client chat app WIP",
+      "name": "by GSRthemes9"
+    },
+    {
+      "image": "portfolio-img33.jpg",
+      "title": "World Clock Widget",
+      "name": "by GSRthemes9"
+    },
+    {
+      "image": "portfolio-img34.jpg",
+      "title": "Website Lightbox",
+      "name": "by GSRthemes9"
+    }
+  ],
+  "makedifferent": [
+    {
+      "id": "1",
+      "title": "EXPERTISE",
+      "description": "Our team comprises certified personnel with deep industry experience.",
+      "icon": "expertise"
+    },
+    {
+      "id": "2",
+      "title": "EXCELLENCE",
+      "description": "Excellence is our motto. We build and support mission-critical systems reliably and securely.",
+      "icon": "excellence"
+    },
+    {
+      "id": "3",
+      "title": "AGILITY",
+      "description": "Being flexible and adapting quickly to changing conditions define our proactive support culture.",
+      "icon": "angility"
+    },
+    {
+      "id": "4",
+      "title": "INNOVATION",
+      "description": "By being collaborative & creative, we continously foster innovation, redefining customer experience.",
+      "icon": "innovation"
+    }
+  ],
+  "testimonials": [
+    {
+      "title": "Mike,Specialty hosting company, Florida USA",
+      "image": "testi.png",
+      "description": "Working in the hosting and data center industry for around 20 years I trust my business to Nodericks Technologies. Knowing their managment for over a decade and having my admin team without a change for 5 years speaks to the quality of their staff and this companies leadership. The expertise and skill level of the VIPoint techs and management matches with the top of the provider companies. VIPoint delivers value, trust, strong skillsets, and allows hosting and datacenter providers run their businesses efficiently. My clients are constantly impressed by my teams work. I am available at anytime for a reference for anyone considering Nodericks."
+    },
+    {
+      "title": "Igor,Cloud",
+      "image": "testi.png",
+      "description": "Nodericks has an exceptional talent pool. In addition to technical expertise, their staff display a strong command over English that gives our customers an in-house like support feel. Way to go, guys !!"
+    },
+    {
+      "title": "Liz,Hosting Company",
+      "image": "testi.png",
+      "description": "When the going gets tough, the tough gets going' I would say that is an apt phrase to describe them. I am so grateful to Nodericks folks for helping me out of a very critical situation. I appreciate their flexibility and willingness to assist their customers. I will definitely recommend them."
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "DARK WEB",
+      "image": "site-img7.jpg",
+      "description": "Lorem Ipsum which looks reasonable the generated Ipsum therefore always..."
+    },
+    {
+      "id": "2",
+      "title": "KALI LINUX",
+      "image": "site-img8.jpg",
+      "description": "Lorem Ipsum which looks reasonable the generated Ipsum therefore always..."
+    }
+  ]
+}
